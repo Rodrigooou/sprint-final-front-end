@@ -1,4 +1,4 @@
-import './funcionamento.css';
+import './funcionamento.scss';
 
 export default function ConteudoFuncionamento(){
     return(

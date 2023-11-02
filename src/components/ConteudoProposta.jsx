@@ -1,4 +1,4 @@
-import './proposta.css';
+import './proposta.scss';
 import imagemSem from '../assets/0e81cb620caa14a0cf17fcacd223ce31.png'
 
 

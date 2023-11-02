@@ -1,4 +1,4 @@
-import './ibm.css';
+import './ibm.scss';
 
 
 export default function ConteudoIBM(){

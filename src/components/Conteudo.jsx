@@ -1,4 +1,4 @@
-import './Conteudo.css';
+import './Conteudo.scss';
 import img1 from'../assets/obj.jpg';
 
 

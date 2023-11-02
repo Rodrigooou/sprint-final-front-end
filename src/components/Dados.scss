@@ -1,0 +1,30 @@
+$bg-main: white;
+
+.main-dados {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 2;
+  grid-template-areas:
+    'um dois';
+  background-color: var($bg-main);
+  width: 100%;
+
+  .dois img{
+    height: 308px;
+  }
+
+  & .um {
+    grid-area: um;
+  }
+
+  & .dois {
+    grid-area: dois;
+  }
+
+  @media (max-width: 1300px) {
+    grid-template-areas:
+      'um'
+      'dois';
+    gap: 10px;
+  }
+}

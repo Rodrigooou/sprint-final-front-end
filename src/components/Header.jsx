@@ -1,4 +1,4 @@
-import './Header.css';
+import './Header.scss';
 import { Link } from "react-router-dom";
 import NoTransitionExample from './NoTransitionExample'; // Importe o componente do Carousel
 

@@ -1,4 +1,4 @@
-import './Dados.css';
+import './Dados.scss';
 import Furtos from '../assets/Roubos_furtos-grafico-4.png';
 import Roubos from '../assets/image.png'
 
