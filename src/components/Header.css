@@ -9,18 +9,16 @@
 }
 
 header{
-    padding-top: 20px;
     text-align: center;
     background-color: var(--bg-header);
-    min-height: 102px;
 }
 
-h1{
+/* h1{
     color: var(--cor-titulo);
     padding: 5%;
     font-variant: small-caps;
     font-size: 55px;
-}
+} */
 
 nav{
     background-color: var(--bg-nav);
