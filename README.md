@@ -1,8 +1,11 @@
-# React + Vite
+99919 - Fernando Popolili Lameira Pires - 1ESPG
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+550249 - Eric de Carvalho Rodrigues - 1ESPG
 
-Currently, two official plugins are available:
+98832 - Matheus Bastazini Zanardi - 1ESPG
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+99656 - João Antonio Vieira Rihan - 1ESPG
+
+550816 - Rodrigo Fernandes Serafim - 1ESPG
+
+link de acesso ao site: https://lovely-arithmetic-f3eb58.netlify.app/
